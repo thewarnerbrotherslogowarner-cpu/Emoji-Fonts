@@ -1,0 +1,10 @@
+# Ignore font binaries and build outputs
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.svg
+*.png
+*.eot
+/dist
+/node_modules
