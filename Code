@@ -1,0 +1,20 @@
+
+---
+
+```markdown name=CONTRIBUTING.md
+# Contributing to All Emoji Fonts Project
+
+We welcome contributions of new emoji fonts, bug fixes, and improvements!
+
+## Adding a New Emoji Font
+
+1. Place your font files in a new subdirectory under `fonts/<font-name>/`.
+2. Include a CSS file to use the font on the web.
+3. Add a `LICENSE` file for the font.
+4. Update `README.md` with details about the font.
+
+## Issues & Suggestions
+
+- Open an issue describing missing emoji, font bugs, or feature requests.
+
+Thanks for helping make emoji more accessible!
